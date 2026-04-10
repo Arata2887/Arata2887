@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Arata
 
-<!--
-**Arata2887/Arata2887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Focused on machine learning and computer vision
+- Interested in practical AI systems and deployment
+- Kaggle: https://www.kaggle.com/resnext
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arata2887&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arata2887&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,jupyter%20notebook,tex&hide_border=true" />
+</p>
+
+## WakaTime
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=你的WakaTime用户名&theme=tokyonight&langs_count=5&hide_progress=true&hide_border=true" />
+</p>
