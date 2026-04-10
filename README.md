@@ -18,5 +18,5 @@ Machine Learning Engineer
 ## WakaTime
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=你的WakaTime用户名&theme=tokyonight&langs_count=5&hide_progress=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arata2887&theme=tokyonight&langs_count=5&hide_progress=true&hide_border=true" />
 </p>
