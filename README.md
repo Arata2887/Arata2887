@@ -1,9 +1,6 @@
 # Hi, I'm Arata
 
-Machine Learning Engineer Of KEYi Robot
-
-## About Me
-
+- Machine Learning Engineer Of KEYi Robot
 - Focused on machine learning and computer vision
 - Interested in practical AI systems and deployment
 - Kaggle: https://www.kaggle.com/resnext
