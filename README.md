@@ -1,15 +1,26 @@
 # Hi, I'm Arata 👋
 
+<p align="left">
+  <a href="https://keyirobot.com/pages/aboutus">
+    <img src="https://img.shields.io/badge/Company-KEYi%20Robot-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Arata2887">
+    <img src="https://img.shields.io/badge/GitHub-Arata2887-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.kaggle.com/resnext">
+    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?style=for-the-badge&logo=kaggle" />
+  </a>
+</p>
+
 Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
 
-Focused on multimodal perception, computer vision, speech interaction, and real-world AI systems.
+Building multimodal perception systems across vision, speech, and real-world AI applications.
 
 ## About Me
 
 - Focused on perception algorithms, multimodal AI, and practical deployment
 - Working across computer vision, speech interaction, and intelligent systems
-- Interested in building robust AI systems for real-world products
-- Kaggle: [resnext](https://www.kaggle.com/resnext)
+- Interested in robust AI systems for real-world products
 
 ## GitHub Stats
 
@@ -24,3 +35,8 @@ Focused on multimodal perception, computer vision, speech interaction, and real-
   <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=tokyonight&langs_count=5&hide_progress=true&hide_border=true" />
 </p>
 
+## Links
+
+- GitHub: [Arata2887](https://github.com/Arata2887)
+- Company: [KEYi Robot](https://keyirobot.com/pages/aboutus)
+- Kaggle: [resnext](https://www.kaggle.com/resnext)
