@@ -1,6 +1,5 @@
 # Hi, I'm Arata 👋
 
-## About Me
 
 Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
 
@@ -15,7 +14,7 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
   </a>
 </p>
 
-## GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <picture>
