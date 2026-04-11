@@ -52,15 +52,15 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time&hide=Other"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time&hide=Other"
     />
     <img
       height="170"
-      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time&hide=Other"
       alt="Arata's wakatime stats"
     />
   </picture>
