@@ -1,5 +1,3 @@
-## Hi, I'm Arata 👋
-
 <p align="left">
   <a href="https://keyirobot.com/pages/aboutus">
     <img src="https://img.shields.io/badge/Company-KEYi%20Robot-0A66C2?style=for-the-badge" />
@@ -8,6 +6,8 @@
     <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?style=for-the-badge&logo=kaggle" />
   </a>
 </p>
+
+# Hi, I'm Arata 👋
 
 Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
 Focused on multimodal perception, computer vision, speech interaction, and embodied AI for real-world robotic systems.
