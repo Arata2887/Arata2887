@@ -24,6 +24,3 @@ Focused on multimodal perception, computer vision, speech interaction, and real-
   <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=tokyonight&langs_count=5&hide_progress=true&hide_border=true" />
 </p>
 
-## Links
-
-- Kaggle: [resnext](https://www.kaggle.com/resnext)
