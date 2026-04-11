@@ -1,32 +1,57 @@
 # Hi, I'm Arata 👋
 
-<p align="left">
-  <a href="https://keyirobot.com/pages/aboutus">
-    <img src="https://img.shields.io/badge/Company-KEYi%20Robot-0A66C2?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Arata2887">
-    <img src="https://img.shields.io/badge/GitHub-Arata2887-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
 Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
 
 Building multimodal perception systems across vision, speech, and real-world AI applications.
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api?username=Arata2887&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_border=true#gh-dark-mode-only" />
-  <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api?username=Arata2887&show_icons=true&theme=default&hide=issues,contribs&hide_border=true#gh-light-mode-only" />
-  
-  <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/top-langs/?username=Arata2887&layout=compact&theme=tokyonight&langs_count=6&hide=html,css,jupyter%20notebook,tex&hide_border=true#gh-dark-mode-only" />
-  <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/top-langs/?username=Arata2887&layout=compact&theme=default&langs_count=6&hide=html,css,jupyter%20notebook,tex&hide_border=true#gh-light-mode-only" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api?username=Arata2887&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api?username=Arata2887&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    />
+    <img
+      height="170"
+      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api?username=Arata2887&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+      alt="Arata's github-readme-stats"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    />
+    <img
+      height="170"
+      src="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+      alt="Arata's github-readme-streak-stats"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=tokyonight&langs_count=5&hide_progress=true&hide_border=true#gh-dark-mode-only" />
-  <img height="170" src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&langs_count=5&hide_progress=true&hide_border=true#gh-light-mode-only" />
-</p>
-
-<p align="left">
-  <a href="https://github.com/Arata2887">GitHub</a> ·
-  <a href="https://keyirobot.com/pages/aboutus">KEYi Robot</a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+    />
+    <img
+      height="170"
+      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"
+      alt="Arata's wakatime stats"
+    />
+  </picture>
 </p>
