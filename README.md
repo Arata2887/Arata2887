@@ -1,9 +1,4 @@
-# Hi, I'm Arata 👋
-
-
-Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
-
-Focused on multimodal perception, computer vision, speech interaction, and embodied AI for real-world robotic systems.
+## Hi, I'm Arata 👋
 
 <p align="left">
   <a href="https://keyirobot.com/pages/aboutus">
@@ -14,7 +9,8 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
   </a>
 </p>
 
-# GitHub Stats
+Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
+Focused on multimodal perception, computer vision, speech interaction, and embodied AI for real-world robotic systems.
 
 <p align="center">
   <picture>
