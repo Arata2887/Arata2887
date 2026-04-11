@@ -48,7 +48,6 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
 </p>
 
 ##
-<p align="center"><sub>This Week in Code</sub></p>
 <p align="center">
   <picture>
     <source
@@ -67,6 +66,4 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
   </picture>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%AC%86%EF%B8%8FLast%20Week%20in%20Code%E2%AC%86%EF%B8%8F-4A90E2?style=flat-square" />
-</p>
+<p align="center"><sub>This Week in Code</sub></p>
