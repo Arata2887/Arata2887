@@ -46,7 +46,9 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
     />
   </picture>
 </p>
+
 ## This Week in Code
+
 <p align="center">
   <picture>
     <source
