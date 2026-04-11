@@ -46,9 +46,6 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
     />
   </picture>
 </p>
-
-## This Week in Code
-
 <p align="center">
   <picture>
     <source
@@ -65,4 +62,7 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
       alt="Arata's wakatime stats"
     />
   </picture>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/This%20Week%20in%20Code-4A90E2?style=flat-square" />
 </p>
