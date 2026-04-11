@@ -1,8 +1,21 @@
 # Hi, I'm Arata 👋
 
+## About Me
+
 Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus)
 
-Building multimodal perception systems across vision, speech, and real-world AI applications.
+Focused on multimodal perception, computer vision, speech interaction, and embodied AI for real-world robotic systems.
+
+<p align="left">
+  <a href="https://keyirobot.com/pages/aboutus">
+    <img src="https://img.shields.io/badge/Company-KEYi%20Robot-0A66C2?style=for-the-badge" />
+  </a>
+  <a href="https://www.kaggle.com/resnext">
+    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?style=for-the-badge&logo=kaggle" />
+  </a>
+</p>
+
+## GitHub Stats
 
 <p align="center">
   <picture>
