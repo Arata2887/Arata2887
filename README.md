@@ -1,28 +1,12 @@
 <p align="left">
   <a href="https://keyirobot.com/pages/aboutus">
-    <img
-      src="https://img.shields.io/badge/Company-KEYi%20Robot-blue"
-      border="0"
-      align="absmiddle"
-      hspace="6"
-    />
-  </a>
+    <img src="https://img.shields.io/badge/Company-KEYi%20Robot-blue" border="0" align="absmiddle" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.kaggle.com/resnext">
-    <img
-      src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?logo=kaggle"
-      border="0"
-      align="absmiddle"
-      hspace="6"
-    />
-  </a>
+    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?logo=kaggle" border="0" align="absmiddle" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://wakatime.com/@abfce090-d65d-45ed-afed-893d1effd08e">
-    <img
-      src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg"
-      alt="Total time coded since Apr 8 2026"
-      border="0"
-      align="absmiddle"
-      hspace="6"
-    />
+    <img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="Total time coded since Apr 8 2026" border="0" align="absmiddle" />
   </a>
 </p>
 
