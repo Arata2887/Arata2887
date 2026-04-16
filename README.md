@@ -1,12 +1,13 @@
 <p align="left">
   <a href="https://keyirobot.com/pages/aboutus">
-    <img src="https://img.shields.io/badge/Company-KEYi%20Robot-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Company-KEYi%20Robot-blue" />
   </a>
   <a href="https://www.kaggle.com/resnext">
-    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?style=for-the-badge&logo=kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?logo=kaggle" />
   </a>
   <a href="https://wakatime.com/@abfce090-d65d-45ed-afed-893d1effd08e">
-    <img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="Total time coded since Apr 8 2026" /></a>
+    <img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="Total time coded since Apr 8 2026" />
+  </a>
 </p>
 
 # Hi, I'm Arata 👋
