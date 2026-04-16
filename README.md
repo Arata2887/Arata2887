@@ -5,6 +5,8 @@
   <a href="https://www.kaggle.com/resnext">
     <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?style=for-the-badge&logo=kaggle" />
   </a>
+  <a href="https://wakatime.com/@abfce090-d65d-45ed-afed-893d1effd08e">
+    <img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="Total time coded since Apr 8 2026" /></a>
 </p>
 
 # Hi, I'm Arata 👋
