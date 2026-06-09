@@ -49,18 +49,18 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&cache_seconds=21600"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&cache_seconds=21600"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
     />
     <img
       height="170"
-      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&cache_seconds=21600"
+      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
       alt="Arata's wakatime stats"
     />
   </picture>
 </p>
 
-<p align="center"><sub>Last Week in Code</sub></p>
+<p align="center"><sub>Last 7 Days in Code</sub></p>
