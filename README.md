@@ -10,17 +10,17 @@
   </a>
 </p>
 
-# Arata — Embodied AI & Robot Learning
+# Arata — Embodied AI & Robot Learning 🤖
 
 **Roboticist at [Cirquar AI](https://www.cirquar.ai/index-en.html).**
 
-I work on **learning systems for general-purpose robots**, with a particular interest in how robots can learn more from less real-world experience.
+I build **robot learning systems from the ground up** — from real-world interaction and robotic infrastructure to **world models, VLA policy learning, reinforcement learning, and deployment on physical robots**.
 
-My current work explores using **world models** to capture reusable knowledge from physical interaction, and using that knowledge to improve **vision-language-action policies through reinforcement learning**.
+My current focus is making limited real-world experience go further: using **world models to capture reusable knowledge from interaction**, and using that knowledge to improve general-purpose robotic policies.
 
-My work spans the loop from **physical robots to learning algorithms and back**. I build the systems needed to collect real-world experience, operate and control robots, structure data for learning, train world models and policies, and bring the resulting behaviors back onto real hardware.
+### 🧭 The Loop
 
-A large part of the work is therefore not just designing models, but building the **robot learning infrastructure from the ground up** — connecting teleoperation, data pipelines, robot runtimes, training systems, evaluation, and deployment into one closed learning loop.
+**🌍 Real-world experience → 🧠 World Models → ⚡ VLA + RL → 🤖 Real-world deployment → 🔁**
 
 **Real-world experience → World Models → VLA + RL → Real-world deployment → New experience**
 
