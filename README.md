@@ -1,14 +1,33 @@
 <p align="left">
-  <a href="https://keyirobot.com/pages/aboutus"><img src="https://img.shields.io/badge/Company-KEYi%20Robot-blue" alt="Company: KEYi Robot" /></a>&nbsp;
-  <a href="https://www.kaggle.com/resnext"><img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?logo=kaggle" alt="Kaggle: resnext" /></a>&nbsp;
-  <a href="https://wakatime.com/@abfce090-d65d-45ed-afed-893d1effd08e"><img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="Total time coded since Apr 8 2026" /></a>
+  <a href="https://www.cirquar.ai/index-en.html">
+    <img src="https://img.shields.io/badge/Cirquar%20AI-Embodied%20AI-6C63FF" alt="Cirquar AI" />
+  </a>&nbsp;
+  <a href="https://www.kaggle.com/resnext">
+    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle: resnext" />
+  </a>&nbsp;
+  <a href="https://wakatime.com/@abfce090-d65d-45ed-afed-893d1effd08e">
+    <img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="WakaTime" />
+  </a>
 </p>
 
-# Hi, I'm Arata 👋
+# Arata — Embodied AI & Robot Learning
 
-Machine Learning Engineer at [KEYi Robot](https://keyirobot.com/pages/aboutus).
+**Embodied AI Research Engineer at [Cirquar AI](https://www.cirquar.ai/index-en.html).**
 
-Focused on multimodal perception, computer vision, speech interaction, and embodied AI for real-world robotic systems.
+Building intelligent robotic systems through **Vision-Language-Action models, World Models, and Robot Learning**, with a focus on scalable learning from real-world interaction.
+
+My work spans the embodied AI stack — from **robotic infrastructure, teleoperation, and data acquisition** to **policy learning, control, and real-world deployment**.
+
+### Research & Engineering
+
+- 🤖 **Embodied AI & Robot Learning**
+- 🧠 **Vision-Language-Action Models**
+- 🌍 **World Models & Model-Based Learning**
+- 🔁 **Reinforcement Learning for Robotics**
+- 🎮 **Robot Teleoperation & Data Infrastructure**
+- 🦾 **Robot Control & Deployment**
+
+---
 
 <p align="center">
   <picture>
@@ -23,7 +42,7 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
     <img
       height="170"
       src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api?username=Arata2887&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
-      alt="Arata's github-readme-stats"
+      alt="Arata's GitHub stats"
     />
   </picture>
 
@@ -39,12 +58,15 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
     <img
       height="170"
       src="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      alt="Arata's github-readme-streak-stats"
+      alt="Arata's GitHub streak stats"
     />
   </picture>
 </p>
 
-##
+---
+
+### Recent Coding Activity
+
 <p align="center">
   <picture>
     <source
@@ -58,9 +80,11 @@ Focused on multimodal perception, computer vision, speech interaction, and embod
     <img
       height="170"
       src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
-      alt="Arata's wakatime stats"
+      alt="Arata's WakaTime stats"
     />
   </picture>
 </p>
 
-<p align="center"><sub>Last 7 Days in Code</sub></p>
+<p align="center">
+  <sub>Last 7 Days in Code</sub>
+</p>
