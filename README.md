@@ -18,8 +18,6 @@ I build **robot learning systems from the ground up** — from real-world intera
 
 My current focus is making limited real-world experience go further: using **world models to capture reusable knowledge from interaction**, and using that knowledge to improve general-purpose robotic policies.
 
-### 🧭 The Loop
-
 **🌍 Real-world experience → 🧠 World Models → ⚡ VLA + RL → 🤖 Real-world deployment → 🔁**
 
 ---
