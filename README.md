@@ -22,8 +22,6 @@ My current focus is making limited real-world experience go further: using **wor
 
 **🌍 Real-world experience → 🧠 World Models → ⚡ VLA + RL → 🤖 Real-world deployment → 🔁**
 
-**Real-world experience → World Models → VLA + RL → Real-world deployment → New experience**
-
 ---
 
 <p align="center">
