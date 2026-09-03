@@ -30,15 +30,15 @@ A large part of the work is therefore not just designing models, but building th
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600&v=3"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
+      srcset="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600&v=3"
     />
     <img
       height="170"
-      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600"
+      src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&theme=default&hide_border=true&layout=compact&hide_title=true&langs_count=6&hide=Other&range=last_7_days&cache_seconds=21600&v=3"
       alt="Arata's WakaTime stats"
     />
   </picture>
