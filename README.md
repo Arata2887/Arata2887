@@ -1,31 +1,10 @@
-<p align="left">
-  <a href="https://www.cirquar.ai/index-en.html">
-    <img src="https://img.shields.io/badge/Cirquar%20AI-Embodied%20AI-6C63FF" alt="Cirquar AI" />
-  </a>&nbsp;
-  <a href="https://www.kaggle.com/resnext">
-    <img src="https://img.shields.io/badge/Kaggle-resnext-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle: resnext" />
-  </a>&nbsp;
-  <a href="https://wakatime.com/@abfce090-d65d-45ed-afed-893d1effd08e">
-    <img src="https://wakatime.com/badge/user/abfce090-d65d-45ed-afed-893d1effd08e.svg" alt="WakaTime" />
-  </a>
-</p>
-
 # Arata — Embodied AI & Robot Learning
 
-**Embodied AI Research Engineer at [Cirquar AI](https://www.cirquar.ai/index-en.html).**
+**Roboticist at [Cirquar AI](https://www.cirquar.ai/index-en.html).**
 
-Building intelligent robotic systems through **Vision-Language-Action models, World Models, and Robot Learning**, with a focus on scalable learning from real-world interaction.
+I work on **world models and reinforcement learning for general-purpose robots**, with a focus on learning from limited real-world interaction and improving **vision-language-action policies**.
 
-My work spans the embodied AI stack — from **robotic infrastructure, teleoperation, and data acquisition** to **policy learning, control, and real-world deployment**.
-
-### Research & Engineering
-
-- 🤖 **Embodied AI & Robot Learning**
-- 🧠 **Vision-Language-Action Models**
-- 🌍 **World Models & Model-Based Learning**
-- 🔁 **Reinforcement Learning for Robotics**
-- 🎮 **Robot Teleoperation & Data Infrastructure**
-- 🦾 **Robot Control & Deployment**
+**Real-world experience → World Models → VLA + RL → Real-world deployment**
 
 ---
 
@@ -45,27 +24,9 @@ My work spans the embodied AI stack — from **robotic infrastructure, teleopera
       alt="Arata's GitHub stats"
     />
   </picture>
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    />
-    <img
-      height="170"
-      src="https://github-streak-stats-ruby.vercel.app?user=Arata2887&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-      alt="Arata's GitHub streak stats"
-    />
-  </picture>
 </p>
 
 ---
-
-### Recent Coding Activity
 
 <p align="center">
   <picture>
