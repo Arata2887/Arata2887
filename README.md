@@ -25,7 +25,7 @@ My current focus is making limited real-world experience go further: using **wor
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&layout=compact&hide_border=true&hide_title=true&langs_count=6&hide=Other&range=last_7_days&v=5"
+    src="https://github-readme-stats-kxqmc97gy-arata2887s-projects.vercel.app/api/wakatime?username=Arata2887&layout=compact&hide_border=true&hide_title=true&langs_count=6&hide=Other&range=last_7_days&v=6"
     alt="Arata's WakaTime stats"
   />
 </p>
