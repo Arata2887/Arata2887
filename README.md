@@ -31,5 +31,5 @@ My current focus is making limited real-world experience go further: using **wor
 </p>
 
 <p align="center">
-  <sub>Last Quarter in Code</sub>
+  <sub>Last Week in Code</sub>
 </p>
