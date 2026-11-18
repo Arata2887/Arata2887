@@ -25,7 +25,7 @@ My current focus is making limited real-world experience go further: using **wor
 <p align="center">
   <img
     height="170"
-    src="https://raw.githubusercontent.com/Arata2887/Arata2887/main/assets/wakatime.svg?v=ad2dcbb6eb17651a"
+    src="https://raw.githubusercontent.com/Arata2887/Arata2887/main/assets/wakatime.svg?v=e1003b1efe3f3b8d"
     alt="Arata's WakaTime stats"
   />
 </p>
