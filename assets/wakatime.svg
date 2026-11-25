@@ -1,25 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="152" viewBox="0 0 495 152" role="img" data-period-start="2026-11-18" data-period-end="2026-11-24" data-source="wakatime-summaries">
-<title>Arata’s WakaTime languages, 2026-11-18 to 2026-11-24</title>
-<metadata id="wakatime-data">{&quot;code_time_public&quot;: true, &quot;languages&quot;: [{&quot;name&quot;: &quot;Python&quot;, &quot;total_seconds&quot;: 201416.588}, {&quot;name&quot;: &quot;C++&quot;, &quot;total_seconds&quot;: 41285.167}, {&quot;name&quot;: &quot;Go&quot;, &quot;total_seconds&quot;: 14755.899}, {&quot;name&quot;: &quot;Markdown&quot;, &quot;total_seconds&quot;: 11355.992}, {&quot;name&quot;: &quot;Bash&quot;, &quot;total_seconds&quot;: 10042.574}, {&quot;name&quot;: &quot;Other&quot;, &quot;total_seconds&quot;: 7209.56}, {&quot;name&quot;: &quot;Cuda&quot;, &quot;total_seconds&quot;: 7163.57}, {&quot;name&quot;: &quot;Rust&quot;, &quot;total_seconds&quot;: 5061.923}, {&quot;name&quot;: &quot;SQL&quot;, &quot;total_seconds&quot;: 1478.589}, {&quot;name&quot;: &quot;SSH Config&quot;, &quot;total_seconds&quot;: 64.539}], &quot;languages_public&quot;: true, &quot;period_end&quot;: &quot;2026-11-24&quot;, &quot;period_start&quot;: &quot;2026-11-18&quot;, &quot;source&quot;: &quot;WakaTime daily summaries&quot;, &quot;username&quot;: &quot;Arata2887&quot;}</metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="152" viewBox="0 0 495 152" role="img" data-period-start="2026-11-19" data-period-end="2026-11-25" data-source="wakatime-summaries">
+<title>Arata’s WakaTime languages, 2026-11-19 to 2026-11-25</title>
+<metadata id="wakatime-data">{&quot;code_time_public&quot;: true, &quot;languages&quot;: [{&quot;name&quot;: &quot;Python&quot;, &quot;total_seconds&quot;: 201330.64}, {&quot;name&quot;: &quot;C++&quot;, &quot;total_seconds&quot;: 39170.51}, {&quot;name&quot;: &quot;Markdown&quot;, &quot;total_seconds&quot;: 15524.252}, {&quot;name&quot;: &quot;Go&quot;, &quot;total_seconds&quot;: 15246.177}, {&quot;name&quot;: &quot;Bash&quot;, &quot;total_seconds&quot;: 9698.613}, {&quot;name&quot;: &quot;Cuda&quot;, &quot;total_seconds&quot;: 7426.387}, {&quot;name&quot;: &quot;Other&quot;, &quot;total_seconds&quot;: 6187.509}, {&quot;name&quot;: &quot;Rust&quot;, &quot;total_seconds&quot;: 5233.255}, {&quot;name&quot;: &quot;SQL&quot;, &quot;total_seconds&quot;: 1640.791}, {&quot;name&quot;: &quot;SSH Config&quot;, &quot;total_seconds&quot;: 144.676}, {&quot;name&quot;: &quot;JavaScript&quot;, &quot;total_seconds&quot;: 28.967}], &quot;languages_public&quot;: true, &quot;period_end&quot;: &quot;2026-11-25&quot;, &quot;period_start&quot;: &quot;2026-11-19&quot;, &quot;source&quot;: &quot;WakaTime daily summaries&quot;, &quot;username&quot;: &quot;Arata2887&quot;}</metadata>
 <rect width="100%" height="100%" fill="#fff"/>
 <defs><clipPath id="bar"><rect x="25" y="18" width="445" height="8" rx="4"/></clipPath></defs>
-<rect clip-path="url(#bar)" x="25.000" y="18" width="313.321" height="8" fill="#3572a5"/>
+<rect clip-path="url(#bar)" x="25.000" y="18" width="310.656" height="8" fill="#3572a5"/>
 <circle cx="30" cy="44" r="5" fill="#3572a5"/>
-<text x="41" y="48" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Python – 55 hrs 56 mins</text>
-<rect clip-path="url(#bar)" x="338.321" y="18" width="64.223" height="8" fill="#f34b7d"/>
+<text x="41" y="48" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Python – 55 hrs 55 mins</text>
+<rect clip-path="url(#bar)" x="335.656" y="18" width="60.441" height="8" fill="#f34b7d"/>
 <circle cx="255" cy="44" r="5" fill="#f34b7d"/>
-<text x="266" y="48" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">C++ – 11 hrs 28 mins</text>
-<rect clip-path="url(#bar)" x="402.544" y="18" width="22.954" height="8" fill="#00add8"/>
-<circle cx="30" cy="69" r="5" fill="#00add8"/>
-<text x="41" y="73" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Go – 4 hrs 5 mins</text>
-<rect clip-path="url(#bar)" x="425.498" y="18" width="17.665" height="8" fill="#083fa1"/>
-<circle cx="255" cy="69" r="5" fill="#083fa1"/>
-<text x="266" y="73" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Markdown – 3 hrs 9 mins</text>
-<rect clip-path="url(#bar)" x="443.163" y="18" width="15.622" height="8" fill="#89e051"/>
+<text x="266" y="48" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">C++ – 10 hrs 52 mins</text>
+<rect clip-path="url(#bar)" x="396.097" y="18" width="23.954" height="8" fill="#083fa1"/>
+<circle cx="30" cy="69" r="5" fill="#083fa1"/>
+<text x="41" y="73" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Markdown – 4 hrs 18 mins</text>
+<rect clip-path="url(#bar)" x="420.051" y="18" width="23.525" height="8" fill="#00add8"/>
+<circle cx="255" cy="69" r="5" fill="#00add8"/>
+<text x="266" y="73" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Go – 4 hrs 14 mins</text>
+<rect clip-path="url(#bar)" x="443.576" y="18" width="14.965" height="8" fill="#89e051"/>
 <circle cx="30" cy="94" r="5" fill="#89e051"/>
-<text x="41" y="98" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Bash – 2 hrs 47 mins</text>
-<rect clip-path="url(#bar)" x="458.785" y="18" width="11.215" height="8" fill="#858585"/>
-<circle cx="255" cy="94" r="5" fill="#858585"/>
-<text x="266" y="98" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Other – 2 hrs 0 mins</text>
-<text x="25" y="140" fill="#6b7280" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="10">Last 7 days · 2026-11-18 to 2026-11-24</text>
+<text x="41" y="98" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Bash – 2 hrs 41 mins</text>
+<rect clip-path="url(#bar)" x="458.541" y="18" width="11.459" height="8" fill="#3a4e3a"/>
+<circle cx="255" cy="94" r="5" fill="#3a4e3a"/>
+<text x="266" y="98" fill="#434d58" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="11">Cuda – 2 hrs 3 mins</text>
+<text x="25" y="140" fill="#6b7280" font-family="Segoe UI,Ubuntu,Arial,sans-serif" font-size="10">Last 7 days · 2026-11-19 to 2026-11-25</text>
 </svg>
